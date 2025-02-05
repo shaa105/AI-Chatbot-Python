@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-#client = OpenAI(api_key="your_own_OpenAI_api_key")
+client = OpenAI(api_key="your_own_OpenAI_api_key")
 prompt = ""
 
 while True:
